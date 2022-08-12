@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&text=lex_xsh&height=300&fontColor=d6ace6)
 
 <!--
 **lexxsh/lexxsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

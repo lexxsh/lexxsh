@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&text=lex_xsh&height=300&fontColor=d6ace6)
-![Sanghyuck's GitHub stats](https://github-readme-stats.vercel.app/api?username=lexxsh&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lex_xsh)](https://solved.ac/lex_xsh/)
-<div align=center><h1>📚 내 스택!</h1></div>
 
-<div align=center> 
+## Who am i?
+아직은 진로를 찾고 있는, 추후 Embedded System 과 IoT Developer 를 꿈꾸는 아기 대학생 "이상혁" 입니다.
+
+## 📚Tech skills?
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -20,8 +20,11 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
   <br>
-</div>
-<div align=center>
-<h3>인하대 정보통신공학과에서 공부중인 학부생입니다!</h3>
-  <h4>잘부탁드려요요</h4>  
-  </div>
+  
+## 📚 MY record?
+- 인하대학교 정보통신공학과 재학 (2020~ing)
+- 인하대학교 멋쟁이사자처럼 Frontend 11기 수료 (2023)
+- 인하대학교 정보통신공학과 Werable_Lab 학부인턴생 (2023~ing)
+  
+![Sanghyuck's GitHub stats](https://github-readme-stats.vercel.app/api?username=lexxsh&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lex_xsh)](https://solved.ac/lex_xsh/)

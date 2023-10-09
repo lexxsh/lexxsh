@@ -19,10 +19,14 @@
   <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
   <br>
   
-## 📚 MY record?
+## MY record?
 - 인하대학교 정보통신공학과 재학 (2020~ing)
 - 인하대학교 멋쟁이사자처럼 Frontend 11기 수료 (2023)
 - 인하대학교 정보통신공학과 Werable_Lab 학부인턴생 (2023~ing)
-  
+
+## Contact?
+- Instagram : lex__xsh
+- Email : john8538@naver.com
+
 ![Sanghyuck's GitHub stats](https://github-readme-stats.vercel.app/api?username=lexxsh&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lex_xsh)](https://solved.ac/lex_xsh/)

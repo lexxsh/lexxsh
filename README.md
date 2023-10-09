@@ -25,7 +25,7 @@
 - 인하대학교 정보통신공학과 Werable_Lab 학부인턴생 (2023~ing)
 
 ## Contact?
-- Instagram : lex__xsh
+- Instagram : @lex__xsh
 - Email : john8538@naver.com
 
 ![Sanghyuck's GitHub stats](https://github-readme-stats.vercel.app/api?username=lexxsh&show_icons=true&theme=radical)

@@ -19,7 +19,8 @@
 ## MY record?
 - 인하대학교 정보통신공학과 재학 (2020~ing)
 - 인하대학교 멋쟁이사자처럼 Frontend 11기 수료 (2023)
-- 인하대학교 정보통신공학과 Werable_Lab 학부인턴생 (2023~ing)
+- 인하대학교 정보통신공학과 Werable_Lab 학부인턴생 (2023.07 ~ 2023.12)
+- 인하대학교 SW-Innovation Academy 회장 (2023.09 ~ 2024.02)
 
 ## Contact?
 - Instagram : @lex__xsh

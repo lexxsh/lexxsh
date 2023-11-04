@@ -21,7 +21,12 @@
 - 인하대학교 멋쟁이사자처럼 Frontend 11기 수료 (2023)
 - 인하대학교 정보통신공학과 Werable_Lab 학부인턴생 (2023.07 ~ 2023.12)
 - 인하대학교 SW-Innovation Academy 회장 (2023.09 ~ 2024.02)
-
+- 인하대학교 멋쟁이사자처럼 회장 (2024.02 ~ 2024.12)
+## MY Competition?
+- 인하대학교 멋쟁이사자처럼 해커톤 참가 -> "CakeKKu" 프론트엔드 + PM + 디자이너
+- 멋쟁이사자처럼 대학 11주년 해커톤 참가 -> "PoPCON" 프론트엔드
+- 인하대학교 2023 이노씽크 메이커톤 참가 -> "Hello Kicktty" 프론트엔드 + 디자이너
+- 인하대학교 2023 Advantech AIoT Innoworks Project 참가 -> "델리스파이스(의료폐기물 관리시스템)" 엔지니어 + 개발자
 ## Contact?
 - Instagram : @lex__xsh
 - Email : john8538@naver.com

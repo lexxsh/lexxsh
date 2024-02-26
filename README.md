@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&text=lex_xsh&height=300&fontColor=d6ace6)
 
 ## Who am i?
-아직은 진로를 찾고 있는, 추후 AL 개발자와 프로덕션 및 IoT 개발자 를 꿈꾸는 아기 대학생 "이상혁" 입니다.
+아직은 진로를 찾고 있는, 추후 AI 개발자와 프로덕션 및 IoT 개발자 를 꿈꾸는 아기 대학생 "이상혁" 입니다.
 
 ## 📚Tech skills?
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">

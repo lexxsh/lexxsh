@@ -19,12 +19,12 @@
    https://mirror-product-be5.notion.site/ad1b04fdae9e409983d079bdb57edd29 << 노션 페이지를 확인해주세요! <br/>
    Front end 개발지 -> https://react-lexxsh.netlify.app/  (개발 진행중에 있습니다.. 23 동계 시작!!)
 ## MY record?
-- 인하대학교 정보통신공학과 재학 (2020~ing)
+- 인하대학교 정보통신공학과 재학 (2020 ~ 진행중)
 - 인하대학교 멋쟁이사자처럼 Frontend 11기 수료 (2023)
 - 인하대학교 정보통신공학과 Werable_Lab 학부인턴생 (2023.07 ~ 2023.12)
 - 인하대학교 SW-Innovation Academy 회장 (2023.09 ~ 2024.02)
 - 인하대학교 멋쟁이사자처럼 회장 (2024.02 ~ 2024.12)
-- 인하대학교 전자공학과 컴퓨터비전 학부인턴생
+- 인하대학교 전자공학과 CVIP Lab 학부연구생 (2023.12 ~ 진행중)
 ## MY Competition?
 - 인하대학교 멋쟁이사자처럼 해커톤 참가 -> "CakeKKu" 프론트엔드 + PM + 디자이너
 - 멋쟁이사자처럼 대학 11주년 해커톤 참가 -> "PoPCON" 프론트엔드

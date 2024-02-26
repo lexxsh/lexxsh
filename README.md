@@ -15,7 +15,8 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
   <br>
-  
+## About me?
+   https://www.notion.so/ad1b04fdae9e409983d079bdb57edd29 << 노션 페이지를 확인해주세요!
 ## MY record?
 - 인하대학교 정보통신공학과 재학 (2020~ing)
 - 인하대학교 멋쟁이사자처럼 Frontend 11기 수료 (2023)

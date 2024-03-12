@@ -18,6 +18,7 @@
 ## About me?
    https://mirror-product-be5.notion.site/ad1b04fdae9e409983d079bdb57edd29 << 조금더 자세한 내용은 노션 페이지를 확인해주세요! <br/>
    Front end 개발지 -> https://react-lexxsh.netlify.app/  (개발 진행중에 있습니다.. 23 동계 시작!!)
+   https://velog.io/@lexxsh
 ## MY record?
 - 인하대학교 정보통신공학과 재학 (2020 ~ 진행중)
 - 인하대학교 멋쟁이사자처럼 Frontend 11기 수료 (2023)
@@ -30,7 +31,8 @@
 - 멋쟁이사자처럼 대학 11주년 해커톤 참가 -> "PoPCON" 프론트엔드
 - 인하대학교 2023 이노씽크 메이커톤 우수상🥈 -> "Hello Kicktty"(https://github.com/hello-kicktty/hello-kicktty-client) 프론트엔드 + 디자이너 
 - 인하대학교 2023 Advantech AIoT Innoworks Project 우수상 🥈 -> "델리스파이스(의료폐기물 관리시스템)" 엔지니어 + 개발자
-- K-CAMT HACKTON 우수상 🥈 -> SW개발자 총괄 
+- K-CAMT HACKTON 우수상 🥈 -> SW개발자 총괄
+- 다수 외주 참가 
 ## Contact?
 - Instagram : @lex__xsh
 - Email : john8538@naver.com

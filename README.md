@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&text=lex_xsh&height=300&fontColor=d6ace6)
 
 ## Who am i?
-아직은 진로를 찾고 있는, 추후 AI 개발자와 프로덕션 및 IoT 개발자 를 꿈꾸는 아기 대학생 "이상혁" 입니다.
+아직은 진로를 찾고 있는, 추후 AI 개발자와 프로덕션 및 IoT 개발자 를 꿈꾸는 대학생 "이상혁" 입니다.
 
 ## 📚Tech skills?
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -31,7 +31,7 @@
 - 멋쟁이사자처럼 대학 11주년 해커톤 참가 -> "PoPCON" 프론트엔드
 - 인하대학교 2023 이노씽크 메이커톤 우수상🥈 -> "Hello Kicktty"(https://github.com/hello-kicktty/hello-kicktty-client) 프론트엔드 + 디자이너 
 - 인하대학교 2023 Advantech AIoT Innoworks Project 우수상 🥈 -> "델리스파이스(의료폐기물 관리시스템)" 엔지니어 + 개발자
-- K-CAMT HACKTON 우수상 🥈 -> SW개발자 총괄
+- K-CAMT HACKTON 1sT Prize 🥈 -> SW개발자 총괄
 - 다수 외주 참가 
 ## Contact?
 - Instagram : @lex__xsh

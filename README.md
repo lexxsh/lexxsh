@@ -32,6 +32,7 @@
 - 인하대학교 2023 이노씽크 메이커톤 우수상🥈 -> "Hello Kicktty"(https://github.com/hello-kicktty/hello-kicktty-client) 프론트엔드 + 디자이너 
 - 인하대학교 2023 Advantech AIoT Innoworks Project 우수상 🥈 -> "델리스파이스(의료폐기물 관리시스템)" 엔지니어 + 개발자
 - K-CAMT HACKTON 1sT Prize 🥈 -> SW개발자 총괄
+- 인하대학교 탄소중립 개인포트폴리오 우수상🥈
 - 다수 외주 참가 
 ## Contact?
 - Instagram : @lex__xsh

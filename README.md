@@ -17,7 +17,7 @@
   <br>
 ## About me?
    https://mirror-product-be5.notion.site/ad1b04fdae9e409983d079bdb57edd29 << 조금더 자세한 내용은 노션 페이지를 확인해주세요! <br/>
-   Front end 개발지 -> https://react-lexxsh.netlify.app/  (개발 진행중에 있습니다.. 23 동계 시작!!)
+   Front end 개발지 -> https://react-lexxsh.netlify.app/  (개발 진행중에 있습니다.. 23 동계 시작!!)<br/>
    https://velog.io/@lexxsh
 ## MY record?
 - 인하대학교 정보통신공학과 재학 (2020 ~ 진행중)

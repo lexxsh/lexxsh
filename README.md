@@ -17,6 +17,7 @@
   <br>
 ## About me?
    https://mirror-product-be5.notion.site/ad1b04fdae9e409983d079bdb57edd29 << 조금더 자세한 내용은 노션 페이지를 확인해주세요! <br/>
+   https://john8538.tistory.com/ << 아래는 제 블로그 페이지 입니다!
 ## MY record?
 - 인하대학교 정보통신공학과 재학 (2020 ~ 진행중)
 - 인하대학교 멋쟁이사자처럼 Frontend 11기 수료 (2023)

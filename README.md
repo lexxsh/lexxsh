@@ -16,8 +16,9 @@
   <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
   <br>
 ## About me?
-   https://mirror-product-be5.notion.site/ad1b04fdae9e409983d079bdb57edd29 << 이력서 CV입니다. <br/>
+   [이력서 4안.pdf](https://github.com/user-attachments/files/18059143/4.pdf) << 이력서 CV입니다. <br/>
    https://john8538.tistory.com/ << 아래는 제 블로그 페이지 입니다!
+
 
 ## Contact?
 - Instagram : @lex__xsh

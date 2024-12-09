@@ -16,8 +16,8 @@
   <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
   <br>
 ## About me?
-   [이력서 4안.pdf](https://github.com/user-attachments/files/18059143/4.pdf) << 이력서 CV입니다. <br/>
-   https://john8538.tistory.com/ << 아래는 제 블로그 페이지 입니다!
+   [이상혁_이력서](https://drive.google.com/file/d/15_ghMtRB0aKeBw4Ca2I4tVDHUSa2IIB8/view?usp=drive_link) << 이력서 CV입니다. <br/>
+   https://john8538.tistory.com/ << 제 블로그 페이지 입니다!
 
 
 ## Contact?

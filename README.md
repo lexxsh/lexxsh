@@ -16,9 +16,9 @@ Talent is believing in yourself and your own strength. Lets go @lexxsh
 |`2024.10`|[**재활용 품목 분류를 위한 Object Detectiong**](https://github.com/boostcampaitech7/level2-objectdetection-cv-05) | 🥇 **1위** (Public) / 🥇 **1위** (Private)| 네이버 커넥트재단 |
 |`2024.09`|[**Sketch 이미지 데이터 분류 (Image Classification)**](https://github.com/boostcampaitech7/level1-imageclassification-cv-05) | 🥉 **3위** (Public) / 🥉 **4위** (Private)| 네이버 커넥트재단 |
 |`2024.08`|[**2024 Samsung AI Challenge : Black-box Optimization**](https://dacon.io/competitions/official/236323/leaderboard) | 🥉**상위 3%** | 삼성전자 SAIT & 데이콘 |
-|`2024.07`|[**INHA SW NET-Zero 공동해커톤 (탄소중립 실현 솔루션 개발)**] | 🥇**대상** | SW중심대학사업단(인하대, 상명대, 인제대) |
+|`2024.07`|[**INHA SW NET-Zero 공동해커톤**] | 🥇**대상** | SW중심대학사업단(인하대, 상명대, 인제대) |
 |`2023.11`|[**Innothink Makerthon (공유 킥보드 문제해결)**](https://github.com/hello-kicktty) | 🥉 **3위** | 인하대 LINC3.0사업단 |
-|`2023.09`|[**Advantech AIoT Innoworks Project (AIoT, 클라우드 플랫폼 활용 애플리케이션 개발)**] | 🥉 **우수상** | Advantech KR & 인하대) |
+|`2023.09`|[**Advantech AIoT Innoworks Projec**] | 🥉 **우수상** | Advantech KR & 인하대) |
 
 ### 💎 CERTIFICATES
 | **자격증** | **발급년도** | **발급기관**  |

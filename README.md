@@ -10,7 +10,7 @@ Talent is believing in yourself and your own strength. Lets go @lexxsh
 
 ### 🏆 PROJECT
 | **날짜** | **대회명** | **수상**  |**주최**  |
-| -------- | ------------|: ----------- :|----------- |
+| -------- | ------------|:-----------:|----------- |
 |`2024.11`|[**Hand Bone Image Segmentation**](https://github.com/boostcampaitech7/level2-cv-semanticsegmentation-cv-12-lv3) |🥇 **1위** (Public) / 🥇 **1위** (Private)| 네이버 커넥트재단 |
 |`2024.11`|[**다국어 영수증 OCR (Data-Centic)**](https://github.com/boostcampaitech7/level2-cv-datacentric-cv-05) |🥉 **5위** (Public) / 🥉 **3위** (Private)| 네이버 커넥트재단 |
 |`2024.10`|[**재활용 품목 분류를 위한 Object Detectiong**](https://github.com/boostcampaitech7/level2-objectdetection-cv-05) | 🥇 **1위** (Public) / 🥇 **1위** (Private)| 네이버 커넥트재단 |

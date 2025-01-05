@@ -20,13 +20,14 @@ Talent is believing in yourself and your own strength. Lets go @lexxsh
 |`2023.11`|[**Innothink Makerthon (공유 킥보드 문제해결)**](https://github.com/hello-kicktty) | 🥉 **우수상 수상** | 인하대 LINC3.0사업단 |
 |`2023.09`|**Advantech AIoT Innoworks Projec** | 🥉 **우수상 수상** | Advantech KR & 인하대 |
 
-### 💎 CERTIFICATES
+<!-- ### 💎 CERTIFICATES
 | **자격증** | **발급년도** | **발급기관**  |
 | -------- | ------------| ----------- |
 
 ### ✍🏻 STUDY
 | Algorithm | Algorithm |  Computer Science | Paper Review  |
 | -------- | ------------| ----------- |----------- |
+-->
 
 ### 📃 MORE INFORMATION
 ####   👇 클릭하시면 해당하는 링크로 연결됩니다! 👇

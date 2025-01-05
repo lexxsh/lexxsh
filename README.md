@@ -6,7 +6,7 @@ Talent is believing in yourself and your own strength. Lets go @lexxsh
 ### About me?
 - **네이버 부스트캠프 AI Tech** CV 트랙 7기 `2024.08 ~ 2025.02`🎓
 - **인하대학교 전기전자공학부(정보통신공학과)** 재학 `2020.03 ~ 2026.07`🎓
-- AI Enginner & AI Researcher를 꿈꾸고 있습니다.
+- AI Engineer & AI Researcher를 꿈꾸고 있습니다.
 
 ### 🏆 PROJECT
 | **날짜** | **대회명** | **수상**  |**주최**  |

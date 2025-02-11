@@ -8,17 +8,25 @@ Talent is believing in yourself and your own strength. Lets go @lexxsh
 - **인하대학교 전기전자공학부(정보통신공학과)** 재학 `2020.03 ~ 2026.07`🎓
 - AI Engineer & AI Researcher를 꿈꾸고 있습니다.
 
-### 🏆 PROJECT
+### 🏆 COMPETITION
 | **날짜** | **대회명** | **수상**  |**주최**  |
 | -------- | ------------|:-----------:|----------- |
 |`2024.11`|[**Hand Bone Image Segmentation**](https://github.com/boostcampaitech7/level2-cv-semanticsegmentation-cv-12-lv3) |🥇 **1위** (Public) / 🥇 **1위** (Private)| 네이버 커넥트재단 |
 |`2024.11`|[**다국어 영수증 OCR (Data-Centic)**](https://github.com/boostcampaitech7/level2-cv-datacentric-cv-05) |🥉 **5위** (Public) / 🥉 **3위** (Private)| 네이버 커넥트재단 |
 |`2024.10`|[**재활용 품목 분류를 위한 Object Detectiong**](https://github.com/boostcampaitech7/level2-objectdetection-cv-05) | 🥇 **1위** (Public) / 🥇 **1위** (Private)| 네이버 커넥트재단 |
 |`2024.09`|[**Sketch 이미지 데이터 분류 (Image Classification)**](https://github.com/boostcampaitech7/level1-imageclassification-cv-05) | 🥉 **3위** (Public) / 🥉 **4위** (Private)| 네이버 커넥트재단 |
-|`2024.08`|[**Samsung AI Challenge : Black-box Optimization**](https://dacon.io/competitions/official/236323/leaderboard) | 🥉**상위 3% (공동 4/421)** | 삼성전자 SAIT & 데이콘 |
+|`2024.08`|[**Samsung AI Challenge : Black-box Optimization**](https://drive.google.com/file/d/1hXqQnozf1tk17nNSksBWBKi8uybI3Pqm/view?usp=sharing) | 🥉**상위 3% (공동 4/421)** | 삼성전자 SAIT & 데이콘 |
 |`2024.07`|**INHA SW NET-Zero 공동해커톤** | 🥇**대상 수상** | SW중심대학사업단 |
 |`2023.11`|[**Innothink Makerthon (공유 킥보드 문제해결)**](https://github.com/hello-kicktty) | 🥉 **우수상 수상** | 인하대 LINC3.0사업단 |
 |`2023.09`|**Advantech AIoT Innoworks Projec** | 🥉 **우수상 수상** | Advantech KR & 인하대 |
+
+### 🏷️ PROJECT
+| **기간** | **프로젝트 명** | **자료**  |**주최**  |
+| -------- | ------------|:-----------:|----------- |
+|`2024.11`|[**SummarAI**](https://github.com/boostcampaitech7/level4-cv-finalproject-hackathon-cv-12-lv3) |<a href="https://knotty-bed-a8d.notion.site/SummarAI-17e9d71d841180019e4fec63ed0e5ef7?pvs=4"/><img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
+
+| 네이버 커넥트재단 & 네이버 클라우드 |
+
 
 <!-- ### 💎 CERTIFICATES
 | **자격증** | **발급년도** | **발급기관**  |

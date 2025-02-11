@@ -23,7 +23,7 @@ Talent is believing in yourself and your own strength. Lets go @lexxsh
 ### 🏷️ PROJECT
 | **기간** | **프로젝트 명** | **자료**  |**주최**  |
 | -------- | ------------|:-----------:|----------- |
-|`2025.01 ~ 2025.02`|[**SummarAI**](https://github.com/boostcampaitech7/level4-cv-finalproject-hackathon-cv-12-lv3) |<a href="https://knotty-bed-a8d.notion.site/SummarAI-17e9d71d841180019e4fec63ed0e5ef7?pvs=4"><img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a><a href="https://drive.google.com/file/d/12z1L0_7MxYJCya3AhY9GM55X2eO7s3SS/view?usp=sharing"><img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>| 네이버 커넥트재단 & 네이버 클라우드 |
+|`2025.01 ~ 2025.02`|[**SummarAI**](https://github.com/boostcampaitech7/level4-cv-finalproject-hackathon-cv-12-lv3) |<a href="https://knotty-bed-a8d.notion.site/SummarAI-17e9d71d841180019e4fec63ed0e5ef7?pvs=4"><img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a><a href="https://drive.google.com/file/d/12z1L0_7MxYJCya3AhY9GM55X2eO7s3SS/view?usp=sharing"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>| 네이버 커넥트재단 & 네이버 클라우드 |
 |`2024.08 ~ 2025.01`|[**Tikkle**](https://chromewebstore.google.com/detail/%ED%8B%B0%EB%81%8C-tikkeul-newtab/pfkfocnonnoahdnkdbeidekgahnafhma?hl=ko) |<a href=""><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>| ToyProject |
 
 <!-- ### 💎 CERTIFICATES

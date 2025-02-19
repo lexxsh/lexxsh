@@ -18,7 +18,7 @@ Talent is believing in yourself and your own strength. Lets go @lexxsh
 |`2024.08`|[**Samsung AI Challenge : Black-box Optimization**](https://drive.google.com/file/d/1hXqQnozf1tk17nNSksBWBKi8uybI3Pqm/view?usp=sharing) | 🥉**상위 3% (공동 4/421)** | 삼성전자 SAIT & 데이콘 |
 |`2024.07`|**INHA SW NET-Zero 공동해커톤** | 🥇**대상 수상** | SW중심대학사업단 |
 |`2023.11`|[**Innothink Makerthon (공유 킥보드 문제해결)**](https://github.com/hello-kicktty) | 🥉 **우수상 수상** | 인하대 LINC3.0사업단 |
-|`2023.09`|**Advantech AIoT Innoworks Projec** | 🥉 **우수상 수상** | Advantech KR & 인하대 |
+|`2023.09`|**Advantech AIoT Innoworks Project** | 🥉 **우수상 수상** | Advantech KR & 인하대 |
 
 ### 🏷️ PROJECT
 | **기간** | **프로젝트 명** | **자료**  |**주최**  |

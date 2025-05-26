@@ -11,19 +11,19 @@ Talent is believing in yourself and your own strength. Lets go @lexxsh
 ### 🏆 AI COMPETITION
 | **날짜** | **대회명** | **순위**  |**수상**  |**주최** |
 | -------- | ------------|:-----------:|:-----------:|----------- |
-|`2025.06`|[**2025 Bias-A-Thon : Bias 대응 챌린지 <Track 2>**](https://dacon.io/competitions/official/236487/overview/description) |🥇 **[6/109]** (Private) | 장려상 | 성균관대 지능형멀티미디어연구센터|
-|`2024.12`|[**Hand Bone Image Segmentation**](https://github.com/boostcampaitech7/level2-cv-semanticsegmentation-cv-12-lv3) |🥇 **[1/24]** (Private)| - | 네이버 커넥트재단 |
-|`2024.11`|[**다국어 영수증 OCR (Data-Centic)**](https://github.com/boostcampaitech7/level2-cv-datacentric-cv-05) | 🥉 **[3/24]** (Private)| - | 네이버 커넥트재단 |
-|`2024.10`|[**재활용 품목 분류를 위한 Object Detectiong**](https://github.com/boostcampaitech7/level2-objectdetection-cv-05) | 🥇 **[1/24]** (Private)| - | 네이버 커넥트재단 |
-|`2024.09`|[**Sketch 이미지 데이터 분류 (Image Classification)**](https://github.com/boostcampaitech7/level1-imageclassification-cv-05) | 🥉 **[4/24]** (Private)| - | 네이버 커넥트재단 |
-|`2024.08`|[**Samsung AI Challenge : Black-box Optimization**](https://drive.google.com/file/d/1hXqQnozf1tk17nNSksBWBKi8uybI3Pqm/view?usp=sharing) | 🥉 **[10/421]** (Private) | - | 삼성전자 SAIT |
+|`2025.06`|[**2025 Bias-A-Thon : Bias 대응 챌린지 <Track 2>**](https://dacon.io/competitions/official/236487/overview/description) |🥇 **[6/109]**  | 장려상 | 성균관대 지능형멀티미디어연구센터|
+|`2024.12`|[**Hand Bone Image Segmentation**](https://github.com/boostcampaitech7/level2-cv-semanticsegmentation-cv-12-lv3) |🥇 **[1/24]** | - | 네이버 커넥트재단 |
+|`2024.11`|[**다국어 영수증 OCR (Data-Centic)**](https://github.com/boostcampaitech7/level2-cv-datacentric-cv-05) | 🥉 **[3/24]** | - | 네이버 커넥트재단 |
+|`2024.10`|[**재활용 품목 분류를 위한 Object Detectiong**](https://github.com/boostcampaitech7/level2-objectdetection-cv-05) | 🥇 **[1/24]** | - | 네이버 커넥트재단 |
+|`2024.09`|[**Sketch 이미지 데이터 분류 (Image Classification)**](https://github.com/boostcampaitech7/level1-imageclassification-cv-05) | 🥉 **[4/24]** | - | 네이버 커넥트재단 |
+|`2024.08`|[**Samsung AI Challenge : Black-box Optimization**](https://drive.google.com/file/d/1hXqQnozf1tk17nNSksBWBKi8uybI3Pqm/view?usp=sharing) | 🥉 **[10/421]**  | - | 삼성전자 SAIT |
 
 ### 🏆 SW COMPETITION
 | **날짜** | **대회명** | **수상**  |**주최**  |
 | -------- | ------------|:-----------:|----------- |
-|`2024.07`|[**INHA SW NET-Zero 공동해커톤**](https://mirror-product-be5.notion.site/INHA-SW-NET-Zero-19e0c57fa46d80e69f42fb3848d599f4?pvs=74) | 🥇 **대상 수상** | SW중심대학사업단 |
-|`2023.11`|[**Innothink Makerthon (공유 킥보드 문제해결)**](https://github.com/hello-kicktty) | 🥉 **우수상 수상** | 인하대 LINC3.0사업단 |
-|`2023.09`|[**Advantech AIoT Innoworks Project**](https://mirror-product-be5.notion.site/Adventech-19e0c57fa46d8025b138d2a45e4ef2e1?pvs=4) | 🥉 **우수상 수상** | Advantech KR & 인하대 |
+|`2024.07`|[**INHA SW NET-Zero 공동해커톤**](https://mirror-product-be5.notion.site/INHA-SW-NET-Zero-19e0c57fa46d80e69f42fb3848d599f4?pvs=74) | 🥇 **대상** | SW중심대학사업단 |
+|`2023.11`|[**Innothink Makerthon (공유 킥보드 문제해결)**](https://github.com/hello-kicktty) | 🥉 **우수상** | 인하대 LINC3.0사업단 |
+|`2023.09`|[**Advantech AIoT Innoworks Project**](https://mirror-product-be5.notion.site/Adventech-19e0c57fa46d8025b138d2a45e4ef2e1?pvs=4) | 🥉 **우수상** | Advantech KR & 인하대 |
 
 ### 🏷️ PROJECT
 | **기간** | **프로젝트 명** | **자료**  |**주최**  |

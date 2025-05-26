@@ -12,7 +12,7 @@ Talent is believing in yourself and your own strength. Lets go @lexxsh
 | **날짜** | **대회명** | **순위**  |**수상**  |**주최** |
 | -------- | ------------|:-----------:|:-----------:|----------- |
 |`2025.06`|[**Hand Bone Image Segmentation**](https://github.com/boostcampaitech7/level2-cv-semanticsegmentation-cv-12-lv3) |🥇 **[1/24]** (Private)| - | 네이버 커넥트재단 |
-|`2024.11`|[**2025 Bias-A-Thon : Bias 대응 챌린지 <Track 2>**](https://dacon.io/competitions/official/236487/overview/description) |🥇 **[6/109]** (Private) | 장려상 | 성균관대 지능형멀티미디어연구센터, 딥페이크연구센터 |
+|`2024.11`|[**2025 Bias-A-Thon : Bias 대응 챌린지 <Track 2>**](https://dacon.io/competitions/official/236487/overview/description) |🥇 **[6/109]** (Private) | 장려상 | 성균관대 지능형멀티미디어연구센터|
 |`2024.11`|[**다국어 영수증 OCR (Data-Centic)**](https://github.com/boostcampaitech7/level2-cv-datacentric-cv-05) | 🥉 **[3/24]** (Private)| - | 네이버 커넥트재단 |
 |`2024.10`|[**재활용 품목 분류를 위한 Object Detectiong**](https://github.com/boostcampaitech7/level2-objectdetection-cv-05) | 🥇 **[1/24]** (Private)| - | 네이버 커넥트재단 |
 |`2024.09`|[**Sketch 이미지 데이터 분류 (Image Classification)**](https://github.com/boostcampaitech7/level1-imageclassification-cv-05) | 🥉 **[4/24]** (Private)| - | 네이버 커넥트재단 |

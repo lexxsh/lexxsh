@@ -13,10 +13,6 @@ Talent is believing in yourself and your own strength. Lets go @lexxsh
 | -------- | ------------|:-----------:|:-----------:|----------- |
 |`2025.06`|[**Image Matching Challenge 2025**](https://www.kaggle.com/competitions/image-matching-challenge-2025) |🥈 **[30/944]**  | 은메달 | Czech Technical University|
 |`2025.06`|[**2025 Bias-A-Thon : Bias 대응 챌린지 <Track 2>**](https://dacon.io/competitions/official/236487/overview/description) |🥉 **[6/109]**  | 장려상 | 성균관대 지능형멀티미디어연구센터|
-|`2024.12`|[**Hand Bone Image Segmentation**](https://github.com/boostcampaitech7/level2-cv-semanticsegmentation-cv-12-lv3) |🥇 **[1/24]** | - | 네이버 커넥트재단 |
-|`2024.11`|[**다국어 영수증 OCR (Data-Centic)**](https://github.com/boostcampaitech7/level2-cv-datacentric-cv-05) | 🥉 **[3/24]** | - | 네이버 커넥트재단 |
-|`2024.10`|[**재활용 품목 분류를 위한 Object Detectiong**](https://github.com/boostcampaitech7/level2-objectdetection-cv-05) | 🥇 **[1/24]** | - | 네이버 커넥트재단 |
-|`2024.09`|[**Sketch 이미지 데이터 분류 (Image Classification)**](https://github.com/boostcampaitech7/level1-imageclassification-cv-05) | 🥉 **[4/24]** | - | 네이버 커넥트재단 |
 |`2024.08`|[**Samsung AI Challenge : Black-box Optimization**](https://drive.google.com/file/d/1hXqQnozf1tk17nNSksBWBKi8uybI3Pqm/view?usp=sharing) | 🥉 **[10/421]**  | - | 삼성전자 SAIT |
 
 ### 🏆 SW COMPETITION
@@ -30,7 +26,14 @@ Talent is believing in yourself and your own strength. Lets go @lexxsh
 | **기간** | **프로젝트 명** | **자료**  |**주최**  |
 | -------- | ------------|:-----------:|----------- |
 |`2025.01 ~ 2025.02`|[**SummarAI**](https://github.com/boostcampaitech7/level4-cv-finalproject-hackathon-cv-12-lv3) |<a href="https://knotty-bed-a8d.notion.site/SummarAI-17e9d71d841180019e4fec63ed0e5ef7?pvs=4"><img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a> <a href="https://drive.google.com/file/d/12z1L0_7MxYJCya3AhY9GM55X2eO7s3SS/view?usp=sharing"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>| 네이버 커넥트재단 & 네이버 클라우드 |
+
+|`2024.12`|[**Hand Bone Image Segmentation**](https://github.com/boostcampaitech7/level2-cv-semanticsegmentation-cv-12-lv3) | - | 네이버 커넥트재단 |
+|`2024.11`|[**다국어 영수증 OCR (Data-Centic)**](https://github.com/boostcampaitech7/level2-cv-datacentric-cv-05) | - | 네이버 커넥트재단 |
+|`2024.10`|[**재활용 품목 분류를 위한 Object Detection**](https://github.com/boostcampaitech7/level2-objectdetection-cv-05) | - | 네이버 커넥트재단 |
+|`2024.09`|[**Sketch 이미지 데이터 분류 (Image Classification)**](https://github.com/boostcampaitech7/level1-imageclassification-cv-05) | - | 네이버 커넥트재단 |
+
 |`2024.08 ~ 2025.01`|[**Tikkle**](https://chromewebstore.google.com/detail/%ED%8B%B0%EB%81%8C-tikkeul-newtab/pfkfocnonnoahdnkdbeidekgahnafhma?hl=ko) |<a href=""><img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a> <a href=""><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>| ToyProject |
+
 
 <!-- ### 💎 CERTIFICATES
 | **자격증** | **발급년도** | **발급기관**  |

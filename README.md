@@ -11,6 +11,7 @@ Talent is believing in yourself and your own strength. Lets go @lexxsh
 ### 🏆 AI COMPETITION
 | **날짜** | **대회명** | **순위**  |**수상**  |**주최** |
 | -------- | ------------|:-----------:|:-----------:|----------- |
+|`2025.11`|[**2025 금융 AI Challenge : 금융 AI 모델 경쟁**](https://dacon.io/competitions/official/236473/overview/description) |🥇 **[1/283]**  | 최우수상 | 금융보안원|
 |`2025.08`|[**2025 SW중심대학 디지털 경진대회 : AI부문**](https://dacon.io/competitions/official/236473/overview/description) |🥉 **[6/271]**  | 우수상 | SW중심대학협의회|
 |`2025.06`|[**Image Matching Challenge 2025**](https://www.kaggle.com/competitions/image-matching-challenge-2025) |🥈 **[30/944]**  | 은메달 | Czech Technical Univ|
 |`2025.06`|[**2025 Bias-A-Thon : Bias 대응 챌린지 <Track 2>**](https://dacon.io/competitions/official/236487/overview/description) |🥉 **[6/109]**  | 장려상 | 성균관지능형멀티미디어연구센터|

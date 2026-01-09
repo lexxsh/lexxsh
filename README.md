@@ -13,8 +13,8 @@ Talent is believing in yourself and your own strength. Lets go @lexxsh
 | -------- | ------------|:-----------:|:-----------:|----------- |
 |`2025.11`|[**2025 금융 AI Challenge : 금융 AI 모델 경쟁**](https://github.com/whitekuj02/finance-AI-chellange) |🥇 **[1/283]**  | 최우수상 | 금융보안원|
 |`2025.08`|[**2025 SW중심대학 디지털 경진대회 : AI부문**](https://github.com/lexxsh/SW-2025) |🥉 **[6/271]**  | 우수상 | SW중심대학협의회|
-|`2025.06`|[**Image Matching Challenge 2025**] |🥈 **[30/944]**  | 은메달 | Czech Technical Univ|
-|`2025.06`|[**2025 Bias-A-Thon : Bias 대응 챌린지 <Track 2>**](https://dacon.io/competitions/official/236487/overview/description) |🥉 **[6/109]**  | 장려상 | 성균관지능형멀티미디어연구센터|
+|`2025.06`|**Image Matching Challenge 2025** |🥈 **[30/944]**  | 은메달 | Czech Technical Univ|
+|`2025.06`|[**2025 Bias-A-Thon : Bias 대응 챌린지 <Track 2>**](https://github.com/lexxsh/2025-Bias-track) |🥉 **[6/109]**  | 장려상 | 성균관지능형멀티미디어연구센터|
 |`2024.08`|[**Samsung AI Challenge : Black-box Optimization**](https://drive.google.com/file/d/1hXqQnozf1tk17nNSksBWBKi8uybI3Pqm/view?usp=sharing) | 🥉 **[10/421]**  | - | 삼성전자 SAIT |
 
 ### 🏆 SW COMPETITION
@@ -22,12 +22,12 @@ Talent is believing in yourself and your own strength. Lets go @lexxsh
 | -------- | ------------|:-----------:|----------- |
 |`2024.07`|[**INHA SW NET-Zero 공동해커톤**](https://github.com/Primero-INHA-NETZERO) | 🥇 **대상** | SW중심대학사업단 |
 |`2023.11`|[**Innothink Makerthon (공유 킥보드 문제해결)**](https://github.com/hello-kicktty) | 🥉 **우수상** | 인하대 LINC3.0사업단 |
-|`2023.09`|[**Advantech AIoT Innoworks Project**](https://mirror-product-be5.notion.site/Adventech-19e0c57fa46d8025b138d2a45e4ef2e1?pvs=4) | 🥉 **우수상** | Advantech KR & 인하대 |
+|`2023.09`|**Advantech AIoT Innoworks Project**(https://mirror-product-be5.notion.site/Adventech-19e0c57fa46d8025b138d2a45e4ef2e1?pvs=4) | 🥉 **우수상** | Advantech KR & 인하대 |
 
 ### 🏷️ PROJECT
 | **기간** | **프로젝트 명** | **자료**  |**주최**  |
 | -------- | ------------|:-----------:|----------- |
-|`2025.01 ~ 2025.02`|[**SummarAI**](https://github.com/boostcampaitech7/level4-cv-finalproject-hackathon-cv-12-lv3) |<a href="https://knotty-bed-a8d.notion.site/SummarAI-17e9d71d841180019e4fec63ed0e5ef7?pvs=4"><img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a> <a href="https://drive.google.com/file/d/12z1L0_7MxYJCya3AhY9GM55X2eO7s3SS/view?usp=sharing"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>| 네이버 커넥트재단 & 네이버 클라우드 |
+|`2025.01 ~ 2025.02`|[**SummarAI**](https://github.com/boostcampaitech7/level4-cv-finalproject-hackathon-cv-12-lv3) | - | 네이버 커넥트재단 & 네이버 클라우드 |
 |`2024.12`|[**Hand Bone Segmentation**](https://github.com/boostcampaitech7/level2-cv-semanticsegmentation-cv-12-lv3) | - | 네이버 커넥트재단 |
 |`2024.11`|[**다국어 영수증 OCR**](https://github.com/boostcampaitech7/level2-cv-datacentric-cv-05) | - | 네이버 커넥트재단 |
 |`2024.10`|[**재활용 쓰레기 Object Detection**](https://github.com/boostcampaitech7/level2-objectdetection-cv-05) | - | 네이버 커넥트재단 |

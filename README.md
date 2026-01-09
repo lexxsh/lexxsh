@@ -32,7 +32,6 @@ Talent is believing in yourself and your own strength. Lets go @lexxsh
 |`2024.11`|[**다국어 영수증 OCR**](https://github.com/boostcampaitech7/level2-cv-datacentric-cv-05) | - | 네이버 커넥트재단 |
 |`2024.10`|[**재활용 쓰레기 Object Detection**](https://github.com/boostcampaitech7/level2-objectdetection-cv-05) | - | 네이버 커넥트재단 |
 |`2024.09`|[**Sketch Image Classification**](https://github.com/boostcampaitech7/level1-imageclassification-cv-05) | - | 네이버 커넥트재단 |
-|`2024.08 ~ 2025.01`|[**Tikkle**](https://chromewebstore.google.com/detail/%ED%8B%B0%EB%81%8C-tikkeul-newtab/pfkfocnonnoahdnkdbeidekgahnafhma?hl=ko) |<a href=""><img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a> <a href=""><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>| ToyProject |
 
 
 <!-- ### 💎 CERTIFICATES

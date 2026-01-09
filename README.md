@@ -2,7 +2,7 @@
 
 ### Who am i?
 Talent is believing in yourself and your own strength. Lets go @lexxsh
-
+[**Portpolio**](https://mirror-product-be5.notion.site/AI-19d0c57fa46d803998d0ceaf2c4ec9b0?pvs=74)
 ### About me?
 - **네이버 부스트캠프 AI Tech** CV 트랙 7기 `2024.08 ~ 2025.02`🎓
 - **인하대학교 전기전자공학부(전기전자공학부 컴퓨터신호처리트랙)** 재학 `2020.03 ~ 2026.07`🎓

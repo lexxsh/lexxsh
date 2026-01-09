@@ -22,7 +22,7 @@ Talent is believing in yourself and your own strength. Lets go @lexxsh
 | -------- | ------------|:-----------:|----------- |
 |`2024.07`|[**INHA SW NET-Zero 공동해커톤**](https://github.com/Primero-INHA-NETZERO) | 🥇 **대상** | SW중심대학사업단 |
 |`2023.11`|[**Innothink Makerthon (공유 킥보드 문제해결)**](https://github.com/hello-kicktty) | 🥉 **우수상** | 인하대 LINC3.0사업단 |
-|`2023.09`|**Advantech AIoT Innoworks Project**(https://mirror-product-be5.notion.site/Adventech-19e0c57fa46d8025b138d2a45e4ef2e1?pvs=4) | 🥉 **우수상** | Advantech KR & 인하대 |
+|`2023.09`|**Advantech AIoT Innoworks Project**| 🥉 **우수상** | Advantech KR & 인하대 |
 
 ### 🏷️ PROJECT
 | **기간** | **프로젝트 명** | **자료**  |**주최**  |

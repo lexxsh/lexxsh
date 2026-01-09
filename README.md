@@ -20,7 +20,7 @@ Talent is believing in yourself and your own strength. Lets go @lexxsh
 ### 🏆 SW COMPETITION
 | **날짜** | **대회명** | **수상**  |**주최**  |
 | -------- | ------------|:-----------:|----------- |
-|`2024.07`|[**INHA SW NET-Zero 공동해커톤**](https://mirror-product-be5.notion.site/INHA-SW-NET-Zero-19e0c57fa46d80e69f42fb3848d599f4?pvs=74) | 🥇 **대상** | SW중심대학사업단 |
+|`2024.07`|[**INHA SW NET-Zero 공동해커톤**](https://github.com/Primero-INHA-NETZERO) | 🥇 **대상** | SW중심대학사업단 |
 |`2023.11`|[**Innothink Makerthon (공유 킥보드 문제해결)**](https://github.com/hello-kicktty) | 🥉 **우수상** | 인하대 LINC3.0사업단 |
 |`2023.09`|[**Advantech AIoT Innoworks Project**](https://mirror-product-be5.notion.site/Adventech-19e0c57fa46d8025b138d2a45e4ef2e1?pvs=4) | 🥉 **우수상** | Advantech KR & 인하대 |
 

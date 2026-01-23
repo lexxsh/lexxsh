@@ -8,7 +8,7 @@ Talent is believing in yourself and your own strength. Lets go @lexxsh
 - **인하대학교 전기전자공학부(전기전자공학부 컴퓨터신호처리트랙)** 재학 `2020.03 ~ 2026.08`🎓
 - AI Engineer & AI Researcher를 꿈꾸고 있습니다.
 ### 📃 PUBLICATION
-ICCASP 2026[COMPOSITIONAL IMAGE SYNTHESIS WITH INFERENCE-TIME SCALING](https://arxiv.org/pdf/2510.24133)
+ICCASP 2026 - [COMPOSITIONAL IMAGE SYNTHESIS WITH INFERENCE-TIME SCALING](https://github.com/gcl-inha/ReFocus)
 ### 🏆 AI COMPETITION
 | **날짜** | **대회명** | **순위**  |**수상**  |**주최** |
 | -------- | ------------|:-----------:|:-----------:|----------- |

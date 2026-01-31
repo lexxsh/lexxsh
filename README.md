@@ -3,10 +3,13 @@
 ### Who am i?
 Talent is believing in yourself and your own strength. Lets go @lexxsh
 [**CV**](https://drive.google.com/file/d/1Uvb3WodPQqjANMvURlaviMQdaJgUU1Pl/view?usp=sharing)
+
 ### About me?
+- **LG AI Research Intern** `2026.02 ~ 2026.05`
 - **네이버 부스트캠프 AI Tech** CV 트랙 7기 `2024.08 ~ 2025.02`🎓
 - **인하대학교 전기전자공학부(전기전자공학부 컴퓨터신호처리트랙)** 재학 `2020.03 ~ 2026.08`🎓
 - AI Engineer & AI Researcher를 꿈꾸고 있습니다.
+
 ### 📃 PUBLICATION
 ICCASP 2026 - [COMPOSITIONAL IMAGE SYNTHESIS WITH INFERENCE-TIME SCALING](https://github.com/gcl-inha/ReFocus)
 ### 🏆 AI COMPETITION

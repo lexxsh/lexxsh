@@ -5,17 +5,15 @@ Aspiring AI Engineer & Researcher
 [**CV**](https://drive.google.com/file/d/1Uvb3WodPQqjANMvURlaviMQdaJgUU1Pl/view?usp=sharing)
 
 ### About me
-- **LG AI Research Computer Vision Intern** `2026.02 ~ ING`
-- **네이버 부스트캠프 AI Tech** CV 트랙 7기 `2024.08 ~ 2025.02` 🎓
-- **인하대학교 전기전자공학부(구 정보통신공학과)** 재학 `2020.03 ~ 2026.08` 🎓
+***LG AI Research***  <sub><sup>Computer Vision Engineer Intern (2026.02 ~ )</sup></sub>  
+***Naver BoostCamp AI Tech***  <sub><sup>CV 7th (2024.08 ~ 2025.02)</sup></sub>  
+***Inha University***  <sub><sup>Information & Communicate engineering (2020.03 ~ 2026.08)</sup></sub>
 
-### 📃 PUBLICATION
-| **Conference** | **Title** | **Link** |
-| -------------- | --------- | -------- |
-| ICASSP 2026 | [COMPOSITIONAL IMAGE SYNTHESIS WITH INFERENCE-TIME SCALING](https://arxiv.org/abs/2510.24133) | [GitHub](https://github.com/gcl-inha/ReFocus) |
+### PUBLICATION
+**[[COMPOSITIONAL IMAGE SYNTHESIS WITH INFERENCE-TIME SCALING]](https://arxiv.org/abs/2510.24133)** in Proc. ***ICASSP 2026*** 
 
-### 🏆 COMPETITIONS
-| **날짜** | **카테고리** | **대회명** | **순위** | **수상** | **주최** |
+### COMPETITIONS
+| **Date** | **Category** | **Name** | **Place** | **Award** | **Hosted** |
 | -------- | ------------ | ---------- | :------: | :------: | -------- |
 | `2025.11` | AI | [**2025 금융 AI Challenge**](https://github.com/whitekuj02/finance-AI-chellange) | 🥇 **[1/283]** | 최우수상 | 금융보안원 |
 | `2025.08` | AI | [**2025 SW중심대학 디지털 경진대회**](https://github.com/lexxsh/SW-2025) | 🥉 **[6/271]** | 우수상 | SW중심대학협의회 |
@@ -26,24 +24,14 @@ Aspiring AI Engineer & Researcher
 | `2023.11` | SW | [**Innothink Makerthon (공유 킥보드 문제해결)**](https://github.com/hello-kicktty) | 🥉 우수상 | - | 인하대 LINC3.0사업단 |
 | `2023.09` | SW | **Advantech AIoT Innoworks Project** | 🥉 우수상 | - | Advantech KR & 인하대 |
 
-### 🏷️ PROJECTS
-| **기간** | **프로젝트 명** | **주최** |
-| -------- | -------------- | -------- |
-| `2025.01 ~ 2025.02` | [**SummarAI**](https://github.com/boostcampaitech7/level4-cv-finalproject-hackathon-cv-12-lv3) | 네이버 커넥트재단 & 네이버 클라우드 |
-| `2024.12` | [**Hand Bone Segmentation**](https://github.com/boostcampaitech7/level2-cv-semanticsegmentation-cv-12-lv3) | 네이버 커넥트재단 |
-| `2024.11` | [**다국어 영수증 OCR**](https://github.com/boostcampaitech7/level2-cv-datacentric-cv-05) | 네이버 커넥트재단 |
-| `2024.10` | [**재활용 쓰레기 Object Detection**](https://github.com/boostcampaitech7/level2-objectdetection-cv-05) | 네이버 커넥트재단 |
-| `2024.09` | [**Sketch Image Classification**](https://github.com/boostcampaitech7/level1-imageclassification-cv-05) | 네이버 커넥트재단 |
+### PROJECTS
+| **Date** | **Name** |
+| -------- | -------------- |
+| `2025.01 ~ 2025.02` | [**SummarAI**](https://github.com/boostcampaitech7/level4-cv-finalproject-hackathon-cv-12-lv3) |
+| `2024.12` | [**Hand Bone Segmentation**](https://github.com/boostcampaitech7/level2-cv-semanticsegmentation-cv-12-lv3) |
+| `2024.11` | [**다국어 영수증 OCR**](https://github.com/boostcampaitech7/level2-cv-datacentric-cv-05) |
+| `2024.10` | [**재활용 쓰레기 Object Detection**](https://github.com/boostcampaitech7/level2-objectdetection-cv-05) |
+| `2024.09` | [**Sketch Image Classification**](https://github.com/boostcampaitech7/level1-imageclassification-cv-05) |
 
-### 📃 MORE INFORMATION
-#### 👇 클릭하시면 해당하는 링크로 연결됩니다! 👇
-<a href="https://mirror-product-be5.notion.site/AI-19d0c57fa46d803998d0ceaf2c4ec9b0?pvs=74">
-  <img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/> 
-</a>
-<a href="https://john8538.tistory.com">
-  <img src="https://img.shields.io/badge/Tistory-FD5F07.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/> 
-</a>
-
-
-### 📊 STATS
-[![lex_xsh's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=lex_xsh)](https://solved.ac/profile/lex_xsh)
+### CERTIFICATES
+`2026.03` ADSP 

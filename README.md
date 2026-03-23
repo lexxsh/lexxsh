@@ -13,10 +13,12 @@ Aspiring AI Engineer & Researcher
 **[[COMPOSITIONAL IMAGE SYNTHESIS WITH INFERENCE-TIME SCALING]](https://arxiv.org/abs/2510.24133)** in Proc. ***ICASSP 2026*** 
 
 ### Study
-자료구조론 실습 및 과제 모음 - https://github.com/lexxsh/Data_structure
-객체지향 프로그래밍 과제 모음 - https://github.com/lexxsh/Object_oriented_programming
-디지털영상처리 실습 및 과제 모음 - https://github.com/lexxsh/Image-processing
-알고리즘 설계 과제 모음 - https://github.com/lexxsh/ICE3020_-
+Computer Vision과 기초 CS 역량 강화를 위해 수행한 학습 기록입니다.
+
+- [**Data Structure**](https://github.com/lexxsh/Data_structure) - 자료구조 실습 및 과제
+- [**Object Oriented Programming**](https://github.com/lexxsh/Object_oriented_programming) - 객체지향 프로그래밍 과제
+- [**Image Processing**](https://github.com/lexxsh/Image-processing) - 디지털영상처리 실습 및 과제
+- [**Algorithm Design**](https://github.com/lexxsh/ICE3020_-) - 알고리즘 설계 과제
 
 ### COMPETITIONS
 | **Date** | **Name** | **Place** | **Award** | **Hosted** |

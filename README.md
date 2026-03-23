@@ -17,7 +17,7 @@ Aspiring AI Engineer & Researcher
 | -------- | ---------- | :------: | :------: | -------- |
 | `2025.11` | [**2025 금융 AI Challenge**](https://github.com/whitekuj02/finance-AI-chellange) | 🥇 **[1/283]** | 최우수상 | 금융보안원 |
 | `2025.08` | [**2025 SW중심대학 디지털 경진대회**](https://github.com/lexxsh/SW-2025) | 🥉 **[6/271]** | 우수상 | SW중심대학협의회 |
-| `2025.06` | **Image Matching Challenge 2025** | 🥈 **[30/944]** | 은메달 | Czech Technical Univ |
+| `2025.06` | [**Image Matching Challenge 2025**](https://github.com/lexxsh/IMC-2025) | 🥈 **[30/944]** | 은메달 | Czech Technical Univ |
 | `2025.06` | [**2025 Bias-A-Thon : Bias 대응 챌린지**](https://github.com/lexxsh/2025-Bias-track) | 🥉 **[6/109]** | 장려상 | 성균관지능형멀티미디어연구센터 |
 | `2024.08` | [**Samsung AI Challenge : Black-box Optimization**](https://drive.google.com/file/d/1hXqQnozf1tk17nNSksBWBKi8uybI3Pqm/view?usp=sharing) | 🥉 **[10/421]** | - | 삼성전자 SAIT |
 | `2024.07` | [**INHA SW NET-Zero 공동해커톤**](https://github.com/Primero-INHA-NETZERO) | 🥇 대상 | - | SW중심대학사업단 |

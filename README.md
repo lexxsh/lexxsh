@@ -2,7 +2,8 @@
 
 ### Who am I?
 Aspiring AI Engineer & Researcher
-[**CV**](https://drive.google.com/file/d/1Uvb3WodPQqjANMvURlaviMQdaJgUU1Pl/view?usp=sharing)
+
+[**CV**](https://drive.google.com/file/d/1Pn0eUWVgBlf4MbHdrW0EINdk3auPDY2j/view?usp=sharing)
 
 ### About me
 ***LG AI Research***  <sub><sup>Computer Vision Engineer Intern (2026.02 ~ )</sup></sub>  

@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&text=lex_xsh&height=300&fontColor=d6ace6)
 
 ### Who am I?
+https://lexxsh.github.io/
 Aspiring AI Engineer & Researcher
 
 [**CV**](https://drive.google.com/file/d/1Pn0eUWVgBlf4MbHdrW0EINdk3auPDY2j/view?usp=sharing)

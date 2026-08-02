@@ -26,7 +26,7 @@ Computer Vision과 기초 CS 역량 강화를 위해 수행한 학습 기록입�
 ### COMPETITIONS
 | **Date** | **Name** | **Place** | **Award** | **Hosted** |
 | -------- | ---------- | :------: | :------: | -------- |
-| `2026.08` | [**2026 CJ 미래기술챌린지**]() |  🥈 **[2/39]** | - | CJ대한통운 |
+| `2026.08` | [**2026 CJ 미래기술챌린지**](https://github.com/lexxsh/CJ-challenge) |  🥈 **[2/39]** | - | CJ대한통운 |
 | `2025.11` | [**2025 금융 AI Challenge**](https://github.com/whitekuj02/finance-AI-chellange) | 🥇 **[1/283]** | 최우수상 | 금융보안원 |
 | `2025.08` | [**2025 SW중심대학 디지털 경진대회**](https://github.com/lexxsh/SW-2025) | 🥉 **[6/271]** | 우수상 | SW중심대학협의회 |
 | `2025.06` | [**Image Matching Challenge 2025**](https://github.com/lexxsh/IMC-2025) | 🥈 **[30/944]** | 은메달 | Kaggle |

@@ -13,7 +13,8 @@ Aspiring AI Engineer & Researcher
 ***Inha University***  <sub><sup>Information & Communicate engineering (2020.03 ~ 2026.08)</sup></sub>
 
 ### PUBLICATION
-**[[StyleComposer: Training-Free Multi-Reference Style Composition]](https://lexxsh.github.io/StyleComposer/)** in Proc. ***Under Review*** 
+**[[StyleComposer: Training-Free Multi-Reference Style Composition]](https://lexxsh.github.io/StyleComposer/)** in Proc. ***Under Review***
+
 **[[COMPOSITIONAL IMAGE SYNTHESIS WITH INFERENCE-TIME SCALING]](https://arxiv.org/abs/2510.24133)** in Proc. ***ICASSP 2026*** 
 
 ### Study

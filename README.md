@@ -8,7 +8,7 @@ Aspiring AI Engineer & Researcher
 [**CV**](https://drive.google.com/file/d/1Pn0eUWVgBlf4MbHdrW0EINdk3auPDY2j/view?usp=sharing)
 
 ### About me
-***LG AI Research***  <sub><sup>Computer Vision Engineer Intern (2026.02 ~ )</sup></sub>  
+***LG AI Research***  <sub><sup>Computer Vision Engineer Intern (2026.02 ~ 2026.08 )</sup></sub>  
 ***Naver BoostCamp AI Tech***  <sub><sup>CV 7th (2024.08 ~ 2025.02)</sup></sub>  
 ***Inha University***  <sub><sup>Information & Communicate engineering (2020.03 ~ 2026.08)</sup></sub>
 
